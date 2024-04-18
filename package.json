@@ -1,24 +1,24 @@
 {
-  "name": "bombino",
-  "version": "1.3.0",
-  "description": "CLI generator for Adobe CEP panels with topshelf Vue build systems",
+  "name": "moyi-bombino",
+  "version": "1.0.4",
+  "description": "在Adobe CEP面板上面使用Vue构建",
   "main": "./bin/index.js",
   "preferGlobal": true,
-  "homepage": "https://github.com/Inventsable/bombino",
+  "homepage": "https://github.com/Dongyifengs/MoYiBombino",
   "author": {
-    "name": "Tom Scharstein",
-    "email": "tom@inventsable.cc",
-    "url": "https://www.inventsable.cc"
+    "name": "MoYiJiangNans",
+    "email": "1545929126@qq.com",
+    "url": "https://space.bilibili.com/454717281"
   },
   "bin": {
-    "bombino": "./bin/index.js"
+    "moyi-bombino": "./bin/index.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "license": "MIT",
-  "repository": "Inventsable/bombino",
+  "repository": "Dongyifengs/MoYiBombino",
   "dependencies": {
     "boxen": "^4.1.0",
     "chalk": "^2.4.2",
