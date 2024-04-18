@@ -1,6 +1,6 @@
 # MoYiBombino
 
-[![NPM](https://nodei.co/npm/bombino.png)](https://nodei.co/npm/bombino/)
+[![NPM](https://nodei.co/npm/MoYiBombino.png)](https://nodei.co/npm/bombino/)
 
 | [Get Started](#get-started) | [Create Panel](#create-panel) | [Create Template](#create-template) | [Templates](#templates) | [Commands](#commands) | [Config](#config) |
 | ----------------------------- | :---------------------------: | :---------------------------------: | :---------------------: | :-------------------: | :---------------: |
