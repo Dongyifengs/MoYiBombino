@@ -1,6 +1,6 @@
 {
   "name": "moyi-bombino",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "在Adobe CEP面板上面使用Vue构建",
   "main": "./bin/index.js",
   "preferGlobal": true,
