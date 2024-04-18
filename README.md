@@ -1,4 +1,4 @@
-# bombino
+# MoYiBombino
 
 [![NPM](https://nodei.co/npm/bombino.png)](https://nodei.co/npm/bombino/)
 
