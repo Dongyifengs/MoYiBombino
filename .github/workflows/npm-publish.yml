@@ -6,6 +6,7 @@ name: Node.js Package
 on:
   release:
     types: [创建]
+    workflow_dispatch:
 
 jobs:
   build:
@@ -30,4 +31,4 @@ jobs:
       - run: npm ci
       - run: npm publish
         env:
-          NODE_AUTH_TOKEN: ${{secrets.UserNpm}}
+          NODE_AUTH_TOKEN: ${{secrets.npm_token}}
