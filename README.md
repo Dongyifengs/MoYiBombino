@@ -10,7 +10,7 @@ Supercharged rebuild of generators [cep-vue-cli](https://github.com/Inventsable/
 
 ## Get Started
 
-Install globally using `npm i -g bombino` then generate your new project and by running `bombino`. 
+Install globally using `npm i -g moyi-bombino` then generate your new project and by running `moyi-bombino`. 
 
 Or, you may skip installation and generate a project via `npx` with `npx bombino`.
 
